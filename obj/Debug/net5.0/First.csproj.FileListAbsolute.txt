@@ -1,0 +1,16 @@
+C:\Users\Gabri\Desktop\prog\First\bin\Debug\net5.0\First.exe
+C:\Users\Gabri\Desktop\prog\First\bin\Debug\net5.0\First.deps.json
+C:\Users\Gabri\Desktop\prog\First\bin\Debug\net5.0\First.runtimeconfig.json
+C:\Users\Gabri\Desktop\prog\First\bin\Debug\net5.0\First.runtimeconfig.dev.json
+C:\Users\Gabri\Desktop\prog\First\bin\Debug\net5.0\First.dll
+C:\Users\Gabri\Desktop\prog\First\bin\Debug\net5.0\ref\First.dll
+C:\Users\Gabri\Desktop\prog\First\bin\Debug\net5.0\First.pdb
+C:\Users\Gabri\Desktop\prog\First\obj\Debug\net5.0\First.csprojAssemblyReference.cache
+C:\Users\Gabri\Desktop\prog\First\obj\Debug\net5.0\First.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabri\Desktop\prog\First\obj\Debug\net5.0\First.AssemblyInfoInputs.cache
+C:\Users\Gabri\Desktop\prog\First\obj\Debug\net5.0\First.AssemblyInfo.cs
+C:\Users\Gabri\Desktop\prog\First\obj\Debug\net5.0\First.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\Desktop\prog\First\obj\Debug\net5.0\First.dll
+C:\Users\Gabri\Desktop\prog\First\obj\Debug\net5.0\ref\First.dll
+C:\Users\Gabri\Desktop\prog\First\obj\Debug\net5.0\First.pdb
+C:\Users\Gabri\Desktop\prog\First\obj\Debug\net5.0\First.genruntimeconfig.cache
